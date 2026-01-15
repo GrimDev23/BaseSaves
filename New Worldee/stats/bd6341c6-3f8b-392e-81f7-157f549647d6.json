@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:flint_and_steel": 1,
+      "minecraft:obsidian": 16
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 4367,
+      "minecraft:walk_one_cm": 2155,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 629,
+      "minecraft:play_time": 15382,
+      "minecraft:jump": 99,
+      "minecraft:time_since_death": 4329,
+      "minecraft:sprint_one_cm": 10151,
+      "minecraft:swim_one_cm": 2783,
+      "minecraft:total_world_time": 16717,
+      "minecraft:fly_one_cm": 751700,
+      "minecraft:walk_on_water_one_cm": 728,
+      "minecraft:deaths": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:crimson_roots": 1
+    }
+  },
+  "DataVersion": 4671
+}
