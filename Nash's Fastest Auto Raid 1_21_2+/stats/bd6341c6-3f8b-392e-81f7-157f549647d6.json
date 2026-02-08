@@ -1,5 +1,48 @@
 {
   "stats": {
+    "minecraft:used": {
+      "minecraft:bone_meal": 127,
+      "minecraft:oak_sign": 1,
+      "minecraft:oak_wood": 3,
+      "minecraft:netherite_sword": 70,
+      "minecraft:kelp": 1,
+      "minecraft:ominous_bottle": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 10245,
+      "minecraft:inspect_dropper": 2,
+      "minecraft:walk_one_cm": 7439,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 1366,
+      "minecraft:mob_kills": 219,
+      "minecraft:play_time": 10245,
+      "minecraft:damage_dealt": 0,
+      "minecraft:jump": 39,
+      "minecraft:time_since_death": 10245,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 626,
+      "minecraft:open_chest": 27,
+      "minecraft:inspect_dispenser": 6,
+      "minecraft:inspect_hopper": 11,
+      "minecraft:total_world_time": 10355,
+      "minecraft:swim_one_cm": 255,
+      "minecraft:fly_one_cm": 5622,
+      "minecraft:walk_on_water_one_cm": 5219,
+      "minecraft:crouch_one_cm": 6,
+      "minecraft:sneak_time": 122,
+      "minecraft:climb_one_cm": 606,
+      "minecraft:raid_trigger": 3,
+      "minecraft:raid_win": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:bone_meal": 1
+    },
+    "minecraft:killed": {
+      "minecraft:pillager": 96,
+      "minecraft:evoker": 18,
+      "minecraft:witch": 25,
+      "minecraft:vindicator": 80
+    },
     "minecraft:picked_up": {
       "minecraft:ominous_bottle": 4,
       "minecraft:stick": 8,
@@ -16,48 +59,6 @@
       "minecraft:gunpowder": 8,
       "minecraft:spider_eye": 5,
       "minecraft:sugar": 6
-    },
-    "minecraft:used": {
-      "minecraft:bone_meal": 127,
-      "minecraft:oak_sign": 1,
-      "minecraft:oak_wood": 3,
-      "minecraft:netherite_sword": 70,
-      "minecraft:kelp": 1,
-      "minecraft:ominous_bottle": 3
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 8836,
-      "minecraft:inspect_dropper": 2,
-      "minecraft:walk_one_cm": 3957,
-      "minecraft:leave_game": 2,
-      "minecraft:walk_under_water_one_cm": 869,
-      "minecraft:mob_kills": 219,
-      "minecraft:play_time": 8836,
-      "minecraft:damage_dealt": 0,
-      "minecraft:jump": 19,
-      "minecraft:time_since_death": 8836,
-      "minecraft:drop": 1,
-      "minecraft:sprint_one_cm": 360,
-      "minecraft:open_chest": 18,
-      "minecraft:inspect_dispenser": 6,
-      "minecraft:inspect_hopper": 5,
-      "minecraft:total_world_time": 8906,
-      "minecraft:fly_one_cm": 5346,
-      "minecraft:walk_on_water_one_cm": 4662,
-      "minecraft:crouch_one_cm": 6,
-      "minecraft:sneak_time": 122,
-      "minecraft:climb_one_cm": 606,
-      "minecraft:raid_trigger": 3,
-      "minecraft:raid_win": 1
-    },
-    "minecraft:dropped": {
-      "minecraft:bone_meal": 1
-    },
-    "minecraft:killed": {
-      "minecraft:pillager": 96,
-      "minecraft:evoker": 18,
-      "minecraft:witch": 25,
-      "minecraft:vindicator": 80
     }
   },
   "DataVersion": 4671

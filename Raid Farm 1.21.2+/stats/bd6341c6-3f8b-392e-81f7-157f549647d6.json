@@ -5,27 +5,21 @@
       "minecraft:diamond_sword": 11,
       "minecraft:firework_rocket": 10
     },
-    "minecraft:picked_up": {
-      "minecraft:diamond_sword": 10,
-      "minecraft:ominous_bottle": 12,
-      "minecraft:dirt": 1,
-      "minecraft:firework_rocket": 12
-    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 10004,
+      "minecraft:time_since_rest": 10030,
       "minecraft:walk_one_cm": 15641,
-      "minecraft:leave_game": 1,
+      "minecraft:leave_game": 2,
       "minecraft:mob_kills": 180,
       "minecraft:walk_under_water_one_cm": 501,
-      "minecraft:play_time": 10004,
+      "minecraft:play_time": 10030,
       "minecraft:jump": 9,
-      "minecraft:time_since_death": 10004,
+      "minecraft:time_since_death": 10030,
       "minecraft:drop": 2,
       "minecraft:sprint_one_cm": 3589,
       "minecraft:open_chest": 38,
       "minecraft:inspect_hopper": 2,
       "minecraft:fall_one_cm": 287,
-      "minecraft:total_world_time": 14316,
+      "minecraft:total_world_time": 14356,
       "minecraft:fly_one_cm": 932,
       "minecraft:crouch_one_cm": 26,
       "minecraft:sneak_time": 166,
@@ -41,6 +35,12 @@
       "minecraft:evoker": 14,
       "minecraft:witch": 15,
       "minecraft:vindicator": 60
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_sword": 10,
+      "minecraft:ominous_bottle": 12,
+      "minecraft:dirt": 1,
+      "minecraft:firework_rocket": 12
     }
   },
   "DataVersion": 4671
