@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:cyan_wool": 22,
+      "minecraft:trapped_chest": 3,
+      "minecraft:grass_block": 1,
+      "minecraft:hopper": 4,
+      "minecraft:comparator": 3,
+      "minecraft:repeater": 1,
+      "minecraft:redstone_torch": 2,
+      "minecraft:beehive": 1,
+      "minecraft:cornflower": 1,
+      "minecraft:redstone": 9,
+      "minecraft:bee_spawn_egg": 1,
+      "minecraft:dispenser": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:glass_bottle": 56,
+      "minecraft:redstone_torch": 1,
+      "minecraft:cornflower": 1,
+      "minecraft:honey_bottle": 1
+    },
+    "minecraft:custom": {
+      "minecraft:trigger_trapped_chest": 7,
+      "minecraft:time_since_rest": 9356,
+      "minecraft:walk_one_cm": 4514,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 9356,
+      "minecraft:jump": 17,
+      "minecraft:time_since_death": 9356,
+      "minecraft:drop": 4,
+      "minecraft:inspect_dispenser": 7,
+      "minecraft:inspect_hopper": 11,
+      "minecraft:total_world_time": 25320,
+      "minecraft:fly_one_cm": 1078,
+      "minecraft:crouch_one_cm": 315,
+      "minecraft:sneak_time": 493
+    },
+    "minecraft:dropped": {
+      "minecraft:cornflower": 1,
+      "minecraft:grass_block": 1,
+      "minecraft:cyan_wool": 2
+    }
+  },
+  "DataVersion": 4671
+}
